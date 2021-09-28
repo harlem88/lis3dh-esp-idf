@@ -17,6 +17,7 @@ extern "C" {
 
 #include "driver/uart.h"
 #include "driver/spi_common.h"
+#include "driver/gpio.h"
 
 /*
  * esp-open-rtos SDK function wrapper 
